@@ -67,14 +67,14 @@ python data_cleaner.py
 ## Example of Execution
 
 ```bash
-Please enter dataset path: C:\Users\Susha\OneDrive\Desktop\Python_30\Main_Folder\Data_Cleaning_Project\NETFLIX.csv
-Please enter dataset name: delivery
+Please enter dataset path: C:\Users\Susha\OneDrive\Desktop\Python_30\Main_Folder\Data_Cleaning_Project\ZOMATO.csv
+Please enter dataset name: zomato
 ```
 
 **Expected output:**
 
-- Duplicate records saved as: `netflix_duplicates.csv`
-- Cleaned data saved as: `netflix_clean_data.csv`
+- Duplicate records saved as: `zomato_duplicates.csv`
+- Cleaned data saved as: `zomato_clean_data.csv`
 
 ### Conclusion
 **Data Cleaning Automation Using Python** is efficient for data pre-processing. Its ability to handle large datasets, clean data accurately, and save duplicates for further inspection makes it ideal for any data science or data analysis project.
